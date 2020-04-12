@@ -14,7 +14,7 @@ public class Test {
 		((Motorbike) v[2]).move(10);
 		System.out.println();
 		for (int i = 0; i < v.length; i++){
-			v[i].move(30);
+			v[i].move(40);
 		}
 		
 		for (int i = 0; i < v.length; i++){
